@@ -1,4 +1,5 @@
 # 🏦 Credit Risk ML System
+Live Demo : https://credit-risk-ml-system-7wjvr7ymtg5we9f9jygeh8.streamlit.app/
 
 An end-to-end **Machine Learning powered credit risk prediction system** that predicts whether a loan applicant is **Safe or High Risk**.
 
@@ -199,3 +200,4 @@ https://github.com/Hardikshah126
 ---
 
 ⭐ If you found this project interesting, consider giving it a star!
+
