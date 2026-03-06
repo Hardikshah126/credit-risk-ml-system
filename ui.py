@@ -70,7 +70,7 @@ with tabs[0]:
         }
 
         response = requests.post(
-            "http://127.0.0.1:8000/predict",
+            "https://credit-risk-api.onrender.com/predict",
             json=data
         )
 
